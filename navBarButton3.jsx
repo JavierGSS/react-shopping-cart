@@ -53,7 +53,6 @@ function NavBar({ stockitems, minstock }) {
     )
   });
 
-
   // note that React needs to have a single Parent
   return (
     <>
