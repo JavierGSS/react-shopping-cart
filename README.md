@@ -57,7 +57,7 @@ The following tools were used in this project:
 - Bootstrap (https://getbootstrap.com)
 - VSCode (http://code.visualstudio.com)
 
-## :alien: Road to Future Improvements##
+## :alien: Road to Future Improvements ##
 
 Extra styling would be nice. Price tags to items might be added, as well as a div that displays the total amount of items included in the shopping cart.
 
