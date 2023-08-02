@@ -18,10 +18,10 @@ function NavBar({ stockitems, minstock }) {
     if (num <= 0) return;
 
     let newStock = stock.map(item => {
-      if (item.name == name) 
+      if (item.name == name) {
         item.instock--;
-        return item;
-      
+      }
+      return item;
     });
 
     setStock([...newStock]);
